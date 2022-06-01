@@ -1,0 +1,5 @@
+spring:
+  rabbitmq:
+    host: 192.168.89.141
+    username: bjsxt
+    password: bjsxt

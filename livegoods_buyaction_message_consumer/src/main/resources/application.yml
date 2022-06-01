@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: livegoods-message-consumer
+  profiles:
+    active: itemCacheName,buyQueue,mongodb,redis
+  rabbitmq:
+    host: 192.168.89.141
+    username: bjsxt
+    password: bjsxt
